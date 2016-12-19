@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+#myCanvas{
+  background-color: white;
+  position:absolute;
+  border: 1px solid rgb(40, 43, 62);
+}
+
+#myContainer{
+  margin:auto;
+  width: 1024px;
+  height: 700px;
+}
